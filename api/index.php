@@ -14,7 +14,7 @@
 <body><script> window.Chorus = window.Chorus || {}; window.Chorus.isMobile = true; window.Chorus.isMfmHosted = false; window.Chorus.isIFrameHosted = false; </script><script id="boot-data" type="application/json"> {"AvaliableFeatures":{"Features":[{"key":"Login\\Behavior\\QuickPassThroughUserNameStep","value":false},{"key":"Login\\Behavior\\RedirectToFiSiteAfterLogoff","value":true},{"key":"Login\\BiometricAuthentication\\Enabled","value":true},{"key":"Login\\MobileInterrupter\\Enabled","value":false},{"key":"Applications\\DataSource\\Accounts\\UiSettings\\NumericAccountNumberEnabled","value":true},{"key":"Applications\\DataSource\\Accounts\\UiSettings\\AccountTypeIconEnabled","value":true}]},"DisplayMode":{"IsMobile":true,"DisplayModeId":"Mobile"}} </script>
 <header class="navbar" role="banner">
 <div class="navbar__center">
-<div class="top-logo-block" style="text-align: center; display: block; width: 100%; margin: 10px auto;"><a href="/"><img alt="Summit Credit Union" height="80" src="https://bulldogfcu.financialhost.org/Media/Default/FILogo/Bulldog_3C_Logo_HBP.png" width="186" /> </a></div>
+<div class="top-logo-block" style="text-align: center; display: block; width: 100%; margin: 10px auto;"><a href="/"><img alt="Summit Credit Union" height="80" src="https://www.baptist-healthfcu.com/wp-content/uploads/2020/06/BHFCUColorTransSmall.png" width="186" /> </a></div>
 </div>
 </header>
 
