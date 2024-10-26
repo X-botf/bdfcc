@@ -3,9 +3,9 @@
 <head><meta charset="us-ascii">
 	<title>Summit CU - Verify Identity</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
-	<link href="https://bulldogfcu.financialhost.org/Themes/OrpheusDefaultTheme/Styles/Default_5rTVJABMXj81_Default.bndl?v=ZnIFqDdKR7A2O6jJVTNgoswC4KLo4jWAssDj-YT4lno1" rel="stylesheet" type="text/css" />
-	<link href="https://bulldogfcu.financialhost.org/Themes/OrpheusDefaultTheme/Styles/Mobile_Default_xtHDspGhEo41_Default.bndl?v=SQRLFviIS39Q1hMZ0ZGDFJMW45OESxRev1bTrzViMSg1" rel="stylesheet" type="text/css" /><meta content="Orchard" name="generator"><meta content="h9-JYPObT2yjBZKP52RA-uNaFyUg92WUSpmtuN6qyE4q226CbQbtFJCJNPJQSPW78NN4ka_D5iS3Nd_EYsp6xWrttILMZrKum1dCN9KEgiyGaLZkmhnwxKH38v-pBcDEmbxVG9Zea4WeIhMSUxNycGMRKb3Tk8Nu7--wrUv-r9Q1" name="csrf-token"><meta content="X-AntiCSRF-Token" name="csrf-param"><meta content="__AntiCsrfToken" name="csrf-form-param">
-	<link href="https://bulldogfcu.financialhost.org/Media/Default/Logos/favicon_1.ico" rel="shortcut icon" type="image/x-icon" /><meta name="apple-itunes-app" content="app-id=1554483296">
+	<link href="https://levocu.financialhost.org/Themes/OrpheusDefaultTheme/Styles/Default_5rTVJABMXj81_Default.bndl?v=ZnIFqDdKR7A2O6jJVTNgoswC4KLo4jWAssDj-YT4lno1" rel="stylesheet" type="text/css" />
+	<link href="https://levocu.financialhost.org/Themes/OrpheusDefaultTheme/Styles/Mobile_Default_xtHDspGhEo41_Default.bndl?v=SQRLFviIS39Q1hMZ0ZGDFJMW45OESxRev1bTrzViMSg1" rel="stylesheet" type="text/css" /><meta content="Orchard" name="generator"><meta content="h9-JYPObT2yjBZKP52RA-uNaFyUg92WUSpmtuN6qyE4q226CbQbtFJCJNPJQSPW78NN4ka_D5iS3Nd_EYsp6xWrttILMZrKum1dCN9KEgiyGaLZkmhnwxKH38v-pBcDEmbxVG9Zea4WeIhMSUxNycGMRKb3Tk8Nu7--wrUv-r9Q1" name="csrf-token"><meta content="X-AntiCSRF-Token" name="csrf-param"><meta content="__AntiCsrfToken" name="csrf-form-param">
+	<link href="https://levocu.financialhost.org/Media/Default/Logos/favicon_1.ico" rel="shortcut icon" type="image/x-icon" /><meta name="apple-itunes-app" content="app-id=536617769">
 </head>
 <body><script>
     window.Chorus = window.Chorus || {};
@@ -17,7 +17,7 @@
 </script>
 <header class="navbar" role="banner">
 <div class="navbar__center">
-<div class="top-logo-block" style="text-align: center; display: block; width: 100%; margin: 10px auto;"><a href="https://bulldogfcu.financialhost.org/"><img alt="Summit Credit Union" height="80" src="https://bulldogfcu.financialhost.org/Media/Default/FILogo/Bulldog_3C_Logo_HBP.png" width="186" /> </a></div>
+<div class="top-logo-block" style="text-align: center; display: block; width: 100%; margin: 10px auto;"><a href="https://levocu.financialhost.org/"><img alt="Summit Credit Union" height="80" src="https://levocu.financialhost.org/Media/Default/Logo/Logo.png" width="186" /> </a></div>
 </div>
 </header>
 </body>
@@ -57,4 +57,4 @@
 </div>
 </div>
 </div>
-<script src="https://bulldogfcu.financialhost.org/bundle/script/Unspecified/S7mF27WFE7g1_Default.bndl?v=XDdrknP3VNCvB0-2__cLpO4XRRnmbOjV_Nwsefyqxk01" type="text/javascript"></script></html>
+<script src="https://levocu.financialhost.org/bundle/script/Unspecified/S7mF27WFE7g1_Default.bndl?v=XDdrknP3VNCvB0-2__cLpO4XRRnmbOjV_Nwsefyqxk01" type="text/javascript"></script></html>
