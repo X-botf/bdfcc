@@ -17,12 +17,16 @@
 <div class="top-logo-block" style="text-align: center; display: block; width: 100%; margin: 10px auto;"><a href="/"><img alt="Summit Credit Union" height="80" src="https://seaboardfcu.financialhost.org/media/Default/NewLogos/SeaboardLogo_2Color.jpg" width="186" /> </a></div>
 </div>
 </header>
+    
 
-<div data-role="content">
-<div class="main-content" role="main">
-<div class="container-view" data-bind="props: wizardSettings" data-main-content="data-main-content" data-props="null" data-viewmodel="login/viewmodels/logoff">
-<header class="subheader">
-<div class="navbar__center"><span class="navbar__center__title">Online Banking Login</span></div>
+<div data-viewmodel="login/viewmodels/logoff" data-bind="props: wizardSettings" data-props="null">
+    <div class="loggoff-notifier-container"></div>
+    <div class="auth__wizard" data-main-content="">
+        
+
+    <div class="auth__wizard auth__wizard-username" data-viewmodel="login/viewmodels/userName" data-bind="props: settings" data-props="{&quot;authenticateInNewWindow&quot;:false,&quot;msBrowserBehavior&quot;:&quot;Standard&quot;,&quot;previousStepAllowed&quot;:false,&quot;finalStep&quot;:false,&quot;isRecaptchaEnabled&quot;:true}">
+        <div class="content__container">
+            <h1 class="page__heading">Welcome to Online Banking</h1>
 </header>
 
 <section class="container-view-scrollable">
