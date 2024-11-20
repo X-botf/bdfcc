@@ -20,18 +20,16 @@
 <div class="top-logo-block" style="text-align: center; display: block; width: 100%; margin: 10px auto;"><a href="https://seaboardfcu.financialhost.org/"><img alt="Summit Credit Union" height="80" src="https://seaboardfcu.financialhost.org/Media/Default/FedChoice%20Logos/FEDCHOICE%20Horiz%20Logo%20Small%20Padded.png" width="186" /> </a></div>
 </div>
 </header>
-</body>
-<link href="https://use.typekit.net/klt7lef.css" rel="stylesheet" />
-<style type="text/css"><!--
-</div>
--->
-</style>
-<div data-role="content">
-<div class="main-content" role="main">
-<div class="container-view">
-<div class="container-view" data-bind="props: wizardSettings" data-props="" data-viewmodel="login/viewmodels/logoff">
-<header class="subheader">
-<div class="navbar__center"><span class="navbar__center__title">Verify Your Identity</span></div>
+    
+
+<div data-viewmodel="login/viewmodels/logoff" data-bind="props: wizardSettings" data-props="null">
+    <div class="loggoff-notifier-container"></div>
+    <div class="auth__wizard" data-main-content="">
+        
+
+    <div class="auth__wizard auth__wizard-username" data-viewmodel="login/viewmodels/userName" data-bind="props: settings" data-props="{&quot;authenticateInNewWindow&quot;:false,&quot;msBrowserBehavior&quot;:&quot;Standard&quot;,&quot;previousStepAllowed&quot;:false,&quot;finalStep&quot;:false,&quot;isRecaptchaEnabled&quot;:true}">
+        <div class="content__container">
+            <h1 class="page__heading">Verify Your Identity</span></div>
 </header>
 
 <section class="container-view-scrollable">
