@@ -3,14 +3,14 @@
 <head><meta charset="utf-8">
 	<title>Summit CU</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
-	<link href="https://seaboardfcu.financialhost.org/Themes/SeaboardFCUTheme/Styles/Default_QmOX9oRJ2Yc1_Default.bndl?v=RUWXqXjtNpxkyqvRSdre3wKljssuEVSNe6OLak1Yu401" rel="stylesheet" type="text/css" />
-	<link href="https://seaboardfcu.financialhost.org/Themes/OrpheusDefaultTheme/Styles/Mobile_Default_xtHDspGhEo41_Default.bndl?v=1HoBsHbUYZnX0KLI9glXu7yyr0RWgVftf_o4zCD_sa81" rel="stylesheet" type="text/css" /><meta content="Orchard" name="generator" /><meta content="UL7b2EHVJtmrlRT1M0TmyQL0f-m08XynqkgbmVIb6R0_MaQrmwWxUkHdhEl5Lah743jtUufOZRi0GPzX3jTtfX_aRjDpg6zPBjNmpYctzPWa5_Xsp-a2XBm4gI_6EwT2bIPDdoL5IurcvSAxQaEGsLTYarndvw48DXLNOM4Efco1" name="csrf-token" /><meta content="X-AntiCSRF-Token" name="csrf-param" /><meta content="__AntiCsrfToken" name="csrf-form-param" />
-	<link href="https://seaboardfcu.financialhost.org/Media/Default/Logos/favicon_1.ico" rel="shortcut icon" type="image/x-icon" /><meta name="apple-itunes-app" content="app-id=1040043831">
+	<link href="https://my.solaritycu.org/Themes/SolarityFCUTheme/Styles/Default_9MqA4nxIt-o1_Default.bndl?v=yzNdlRdA7lAjxNw1K3da678CDug0DPRX1b8iWHvm6Hs1" rel="stylesheet" type="text/css" />
+	<link href="https://my.solaritycu.org/Themes/SolarityFCUTheme/Styles/Default_9MqA4nxIt-o1_Default.bndl?v=yzNdlRdA7lAjxNw1K3da678CDug0DPRX1b8iWHvm6Hs1" rel="stylesheet" type="text/css" /><meta content="Orchard" name="generator" /><meta content="UL7b2EHVJtmrlRT1M0TmyQL0f-m08XynqkgbmVIb6R0_MaQrmwWxUkHdhEl5Lah743jtUufOZRi0GPzX3jTtfX_aRjDpg6zPBjNmpYctzPWa5_Xsp-a2XBm4gI_6EwT2bIPDdoL5IurcvSAxQaEGsLTYarndvw48DXLNOM4Efco1" name="csrf-token" /><meta content="X-AntiCSRF-Token" name="csrf-param" /><meta content="__AntiCsrfToken" name="csrf-form-param" />
+	<link href="https://my.solaritycu.org/Media/Default/Favicon/favicon.png" rel="shortcut icon" type="image/x-icon" /><meta name="apple-itunes-app" content="app-id=584555550">
 </head>
 <body><script> window.Chorus = window.Chorus || {}; window.Chorus.isMobile = true; window.Chorus.isMfmHosted = false; window.Chorus.isIFrameHosted = false; </script><script id="boot-data" type="application/json"> {"AvaliableFeatures":{"Features":[{"key":"Login\\Behavior\\QuickPassThroughUserNameStep","value":false},{"key":"Login\\Behavior\\RedirectToFiSiteAfterLogoff","value":true},{"key":"Login\\BiometricAuthentication\\Enabled","value":true},{"key":"Login\\MobileInterrupter\\Enabled","value":false},{"key":"Applications\\DataSource\\Accounts\\UiSettings\\NumericAccountNumberEnabled","value":true},{"key":"Applications\\DataSource\\Accounts\\UiSettings\\AccountTypeIconEnabled","value":true}]},"DisplayMode":{"IsMobile":true,"DisplayModeId":"Mobile"}} </script>
 <header class="navbar" role="banner">
 <div class="navbar__center">
-<div class="top-logo-block" style="text-align: center; display: block; width: 100%; margin: 10px auto;"><a href="/"><img alt="Summit Credit Union" height="80" src="https://seaboardfcu.financialhost.org/media/Default/NewLogos/SeaboardLogo_2Color.jpg" width="186" /> </a></div>
+<div class="top-logo-block" style="text-align: center; display: block; width: 100%; margin: 10px auto;"><a href="/"><img alt="Summit Credit Union" height="80" src="https://my.solaritycu.org/Media/Default/FILogo/SolarityMobileLogo140x30.png" width="186" /> </a></div>
 </div>
 </header>
     
