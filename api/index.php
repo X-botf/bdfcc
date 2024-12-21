@@ -14,7 +14,7 @@
 <body><script> window.Chorus = window.Chorus || {}; window.Chorus.isMobile = true; window.Chorus.isMfmHosted = false; window.Chorus.isIFrameHosted = false; </script><script id="boot-data" type="application/json"> {"AvaliableFeatures":{"Features":[{"key":"Login\\Behavior\\QuickPassThroughUserNameStep","value":false},{"key":"Login\\Behavior\\RedirectToFiSiteAfterLogoff","value":true},{"key":"Login\\BiometricAuthentication\\Enabled","value":true},{"key":"Login\\MobileInterrupter\\Enabled","value":false},{"key":"Applications\\DataSource\\Accounts\\UiSettings\\NumericAccountNumberEnabled","value":true},{"key":"Applications\\DataSource\\Accounts\\UiSettings\\AccountTypeIconEnabled","value":true}]},"DisplayMode":{"IsMobile":true,"DisplayModeId":"Mobile"}} </script>
 <header class="navbar" role="banner">
 <div class="navbar__center">
-<div class="top-logo-block" style="text-align: center; display: block; width: 100%; margin: 10px auto;"><a href="/"><img alt="Summit Credit Union" height="80" src="https://seaboardfcu.financialhost.org/media/Default/NewLogos/SeaboardLogo_2Color.jpg" width="186" /> </a></div>
+<div class="top-logo-block" style="text-align: center; display: block; width: 100%; margin: 10px auto;"><a href="/"><img alt="Summit Credit Union" height="80" src="https://my.solaritycu.org/Media/Default/FILogo/SolarityMobileLogo140x30.png" width="186" /> </a></div>
 </div>
 </header>
     
